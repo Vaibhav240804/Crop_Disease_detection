@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+env/
+
+# Compiled Python files
+__pycache__/
+
+# Logs
+*.log
+
+# Local database files
+db.sqlite
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Compiled binary files
+*.pyc
+
+# macOS-specific files
+.DS_Store
+
+# Ignore your configuration files with sensitive data (e.g., .env)
+.env
